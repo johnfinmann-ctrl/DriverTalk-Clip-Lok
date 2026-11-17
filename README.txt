@@ -1,5 +1,3 @@
-DriverTalk Clip-Lok SimPak v1.1 – uofficiel demo.
-Originalt logo fra brugerens upload. Farver: blå #0085C8, hvid og mørkegrå.
-Alle filer uploades i roden af et SEPARAT GitHub repository.
-Fri oversættelse er ikke aktiveret. Faste oversættelser skal kvalitetssikres før drift.
-Ikke en officiel Clip-Lok udgivelse.
+DriverTalk – Clip-Lok SimPak v1.2 (uofficiel demo)
+Opdatering: Mere farverige sprogkort, større flag og tydelig aktiv markering. Funktioner og oversættelser er uændrede.
+Upload alle filer til et separat GitHub Pages repository. Fri tekstoversættelse kræver separat backend.
